@@ -1,5 +1,5 @@
 .footer-container {
-    background-color: #242424;
+    background-color: rgb(89, 106, 145);
     padding: 4rem 0 2rem 0;
     display: flex;
     flex-direction: column;
@@ -71,11 +71,11 @@
   }
   
   .footer-link-items > h2 {
-    color: #fff;
+    color: rgb(13, 22, 134);
   }
   
   .footer-link-items a {
-    color: #fff;
+    color: rgb(38, 34, 92);
     text-decoration: none;
     margin-bottom: 0.5rem;
   }

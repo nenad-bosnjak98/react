@@ -1,7 +1,8 @@
 import React from 'react';
 import '../../App.css'
+import Form from '../Form';
 
 export default function Signup() {
-    return <h2 className='sign-up'> Sign Up </h2>;
+    return <Form />;
 }
 

@@ -12,7 +12,7 @@ function Hero() {
                     <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
                         Explore!
                     </Button>
-                    <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large' onClick={console.log('hey')}>
+                    <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large' onClick={console.log('world')}>
                         Watch trailer! <i className='far fa-play-circle' />
                     </Button>
                 </div>
